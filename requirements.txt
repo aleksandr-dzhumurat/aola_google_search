@@ -1,0 +1,3 @@
+python-telegram-bot
+google-search-results
+openai
